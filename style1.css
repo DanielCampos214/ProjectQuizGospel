@@ -21,9 +21,11 @@ h1{
     color: #FFFFFF;
     filter: drop-shadow(0px 4px 4px #00000040);
 }
-img{
-    
-    margin: 24px 30%;
+.container-img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40px;
 }
 .welcome{
     background: #B8E893;
